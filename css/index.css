@@ -1,0 +1,295 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+.home
+{
+	width: 100%;
+	height: 600px;
+	background: url(../images/image1.jpg);
+	background-size: cover;
+}
+.home .list ul
+{
+
+	list-style: none;
+	text-align: center;
+	margin-top: 0;
+	
+}
+
+
+.home .list ul li
+{
+
+	display: inline-block;
+	padding: 20px;
+}
+.home .list ul li a
+{
+	color: #fff;
+	text-decoration:none;
+	font-size: 17px;
+	padding: 15px;
+}
+.home .new-nav
+{
+	width: 100%;
+	height: 100px;
+	background:rgba(0,0,0,.5);
+	line-height: 60px;
+	position: fixed;
+	top: 0;
+	display: none;
+}
+.home .zipper
+{
+	color: #fff;
+	width: 400px;
+	height: 100px;
+	margin: 200px auto;
+	text-align: center;
+	position: relative;
+	
+}
+.home .zipper h2
+{
+	font-size: 35px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+.home .zipper p
+{
+	font-size: 20px;
+	white-space: nowrap;
+	font-weight: normal;
+	position: absolute;
+	top: 30px;
+	left: 80px
+
+}
+.about
+{
+	width: 100%;
+	height: 550px;
+	background: url('../images/image-02.jpg');
+	background-size: cover;
+}
+.about .mauris
+{
+	width: 30%;
+	height: 100%;
+	background: rgba(0,0,0,.3);
+	float: right;
+	text-align: center;
+	margin-right: 7%;
+	
+}
+.about .mauris h2
+{
+	margin: 0;
+	color: #e8ce62;
+	padding-top: 50px;
+	font-weight: normal;
+}
+.about .mauris p
+{
+	color: #fff;
+	line-height: 2;
+	font-size: 15px;
+	padding-left: 3px;
+	paddint-right:3px;
+}
+
+
+.service
+{
+	width: 100%;
+	height: 550px;
+	background: url('../images/image-03.jpg');
+	background-size: cover;
+}
+.service .our-service
+{
+	width: 30%;
+	height: 100%;
+	background: rgba(0,0,0,.3);
+	text-align: center;
+	margin-left: 7%;
+	
+}
+.service .our-service h2
+{
+	margin: 0;
+	color: #e8ce62;
+	padding-top: 50px;
+	font-weight: normal;
+}
+.service .our-service p
+{
+	color: #fff;
+	line-height: 2;
+	font-size: 15px;
+	padding-left: 3px;
+	paddint-right:3px;
+}
+
+.testimonials
+{
+	
+	width: 100%;
+	height: 500px;
+	background: url(../images/image-04.jpg);
+	background-size: cover;
+	text-align: center;
+}
+.testimonials .info 
+{
+	width: 100%;
+	margin: auto;
+	margin-left: 8%;
+	
+	
+
+
+}
+.testimonials .info .test
+{
+
+	width: 25%;
+	height: 300px;
+	background:rgba(0,0,0,.6);
+	float: left;
+	margin-left: 2%;
+}
+
+.testimonials h2
+{
+	margin: 0;
+	padding-bottom: 3%;
+	padding-top: 3%;
+	font-weight: normal;
+}
+.testimonials .test i
+{
+	color: #fff;
+	padding-top: 8%;
+	padding-bottom: 8%;
+
+}
+.testimonials .test p
+{
+	color: #eee;
+	line-height: 2;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.contact
+{
+	width: 100%;
+	height: 550px;
+	background: url(../images/image-05.jpg);
+	background-size: cover;
+}
+.contact .form
+{
+	width: 30%;
+	height: 100%;
+	background: rgba(0,0,0,.5);
+	float: right;
+	margin-right: 4%;
+	text-align: center;
+	
+
+}
+.contact .form form input, .contact .form form textarea , .contact .form form button
+{
+	background: rgba(0,0,0,.4);
+	outline: 0;
+	border: 0;
+	padding-left: 10px;
+	font-size: 13px;
+
+}
+.contact .form form input
+{
+	display: block;
+	width: 80%;
+	height: 40px;
+	margin: auto;
+	margin-bottom: 4%;
+
+}
+.contact .form form textarea
+{
+	width: 80%;
+	padding-top: 10px;
+	font-size: 15px;
+	
+
+}
+.contact .form form button
+{
+	width: 120px;
+	margin-left: 38px;
+	display: block;
+	margin-top: 4%;
+	padding: 20px;
+	color: #c0c8c4;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.contact h2
+{
+	margin:0;
+	padding-top: 15%;
+	padding-bottom: 10%;
+	margin-right: 52%;
+	color: #fbfd72;
+	font-weight: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
